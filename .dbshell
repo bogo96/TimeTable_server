@@ -1,0 +1,99 @@
+use timetable
+show collections
+db.tsets.find()
+db.tests.find()
+use timetable
+show collections
+db.tests.find()
+use timeTable
+show dbs
+use timetable
+show collections
+db.tests.find()
+use timetable
+db.tests.find()
+use timetable
+db.tests.find()
+use timetable
+db.tests.find()
+use timetable
+db.club.find()
+use timetable
+use timetable
+db.tests.find()
+use timetable
+db.tests.find()
+use timetable
+db.club.find()
+use timetable
+db.club.find()
+db.club.drop()
+db.create(club)
+db.createCollection(club)
+db.createCollection("club")
+db.insert.club({"temp" : "1","club" : ["hurricane", "spacs", "ewb","line"]})
+db.club.insert({"temp" : "1","club" : ["hurricane", "spacs", "ewb","line"]})
+show collections
+db.club.find()
+use timetable
+db.club.find()
+show dbs
+use timetable
+show dbs
+db.tests.find()
+wq
+use timetable
+db.club.find()
+db.tests.find()
+show dbs
+use timetable
+db.tests.find()
+show dbs
+use timetable
+show collections
+db.tests.find()
+show dbs
+use timetable
+dbs
+db
+show db
+show dbs
+use timetable
+show collections
+db.kaist2000.drop()
+show collections
+db.kaist2000_2.drop()
+show collections
+xit
+show dbs
+use timetable
+db.club.find()
+show dbs
+use timetable
+db.tests.find()
+db.club.find()
+use timetable
+db.tests.find()
+wxit
+use timetable
+show dbs
+use test
+show dbs
+use timetable
+show collections
+db.tests.find()
+use timetable
+show dbs
+show collections
+db.club.find()
+use tests
+db.test.find()
+db.tests.find()
+show collections
+use timetable
+show collections
+db.tests.find()
+db.tests.insert({school : "KAIST", name: "서혜인" , club:[], subject:[], studentid: "2015", password: "1234"})
+db.tests.find()
+db.tests.insert({school : "KAIST", name: "송재엽" , club:[], subject:[], studentid: "2016", password: "1234"})
+db.tests.insert({school : "KAIST", name: "이대승" , club:[], subject:[], studentid: "2013", password: "1234"})
